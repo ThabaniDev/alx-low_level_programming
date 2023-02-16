@@ -9,3 +9,5 @@
 	- Compiles a C file but does not link it and saves the result into a file with the same name of the file but with the .o extension
 - 2-assembler:
 	- Compiless a C file such that the assemlby code of the C code is generated and saved in a file with the same name as the file being compiled but with the .s extension
+- 3-name:
+	- Compiles a C file and creates an executable named cisfun
